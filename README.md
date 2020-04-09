@@ -7,3 +7,10 @@ Learn how to test-drive your Rails application from scratch. This course covers 
 ```ruby
 ruby string_calculator.rb
 ```
+
+#### Gem used
+```ruby
+gem 'rspec'
+```
+bundle install `bundle install`
+Initialize rspec `bundle exec rspec --init`
